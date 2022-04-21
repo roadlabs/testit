@@ -1,1 +1,1 @@
-Sitemap: https://testit.17coding.net/sitemap.xml
+Sitemap: https://testit.17coding.net/testit/sitemap.xml
