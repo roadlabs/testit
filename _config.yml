@@ -14,8 +14,8 @@ github_repo: "testit"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-# url: "https://roadlabs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://testit.17coding.net"
+url: "https://roadlabs.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "https://testit.17coding.net"
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
